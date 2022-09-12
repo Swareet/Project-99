@@ -1,0 +1,24 @@
+
+
+.copy_right_footer {
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    size: 10px;
+    font-weight: bolder;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-emphasis-color:red;
+}
+ 
+img {
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+body{
+     background: linear-gradient(to bottom right, #33ccff 14%, #ff33cc 92%);
+}
